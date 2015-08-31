@@ -2,9 +2,9 @@
 
 Copy folder contents into sketchbook folder
 
-Run 5V Power and GND to the arduino 
-run garage door to the relay labeled 10
-Run door lights to relay labeled 13
+* Run 5V Power and GND to the arduino 
+* Run garage door to the relay labeled 10
+* Run door lights to relay labeled 13
 
 
 ##Back
